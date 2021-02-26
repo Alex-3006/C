@@ -1,0 +1,13 @@
+d:\Projects\learn c#\bin\Debug\netcoreapp3.1\learn c#.exe
+D:\Projects\learn c#\bin\Debug\netcoreapp3.1\learn c#.deps.json
+D:\Projects\learn c#\bin\Debug\netcoreapp3.1\learn c#.runtimeconfig.json
+D:\Projects\learn c#\bin\Debug\netcoreapp3.1\learn c#.runtimeconfig.dev.json
+d:\Projects\learn c#\bin\Debug\netcoreapp3.1\learn c#.dll
+d:\Projects\learn c#\bin\Debug\netcoreapp3.1\learn c#.pdb
+d:\Projects\learn c#\obj\Debug\netcoreapp3.1\learn c#.csprojAssemblyReference.cache
+d:\Projects\learn c#\obj\Debug\netcoreapp3.1\learn c#.AssemblyInfoInputs.cache
+d:\Projects\learn c#\obj\Debug\netcoreapp3.1\learn c#.AssemblyInfo.cs
+d:\Projects\learn c#\obj\Debug\netcoreapp3.1\learn c#.csproj.CoreCompileInputs.cache
+d:\Projects\learn c#\obj\Debug\netcoreapp3.1\learn c#.dll
+d:\Projects\learn c#\obj\Debug\netcoreapp3.1\learn c#.pdb
+D:\Projects\learn c#\obj\Debug\netcoreapp3.1\learn c#.genruntimeconfig.cache
